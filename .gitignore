@@ -10,3 +10,7 @@ HF_TOKEN
 *.env
 .env
 analysis/11-adiemus/data/input/adiemus.mp3
+.venv/
+__pycache__/
+*.pyc
+.Rproj.user/
