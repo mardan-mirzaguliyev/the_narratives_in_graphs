@@ -16,7 +16,7 @@
 
 library(stringr)   # str_detect() — used to exclude the checker script
 
-load_pipeline <- function(base_path = "~/Desktop/projects/main/the_narratives_in_graphs/common",
+load_pipeline <- function(base_path = "~/Desktop/projects/main/graphmatik/common",
                           max_scripts = 10) {
   
   scripts <- list.files(base_path, pattern = "^\\d{2}-.*\\.R$", full.names = TRUE)

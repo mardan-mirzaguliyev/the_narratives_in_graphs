@@ -1,4 +1,4 @@
-# The Narratives in Graphs 📊✍️
+# Graphmatik 📊✍️
 
 > *"True art is able to make us feel the artist’s emotional state they were in while creating their masterpieces."*
 
@@ -41,4 +41,4 @@ If you want to run or inspect the code locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mardan-mirzaguliyev/the_narratives_in_graphs.git
+   git clone https://github.com/mardan-mirzaguliyev/graphmatik.git

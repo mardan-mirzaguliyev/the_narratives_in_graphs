@@ -39,7 +39,7 @@ find_shadow_definitions <- function(path) {
 ## the "no bare source()" check below, since 00-shared_objects.R's own
 ## internal contents are the thing being sourced, not a script that sources it.
 
-common_path <- "~/Desktop/projects/main/the_narratives_in_graphs/common"
+common_path <- "~/Desktop/projects/main/graphmatik/common"
 
 all_numbered_scripts <- list.files(common_path, pattern = "^\\d{2}-.*\\.R$", full.names = TRUE)
 method_scripts <- all_numbered_scripts[
